@@ -58,6 +58,11 @@
         </service>
 
         <service
+            android:name=".touch.TouchEdgeFilterService"
+            android:exported="true">
+        </service>
+
+        <service
             android:name=".touch.TouchOrientationService"
             android:exported="true">
         </service>
