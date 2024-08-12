@@ -1,9 +1,9 @@
-Device configuration for Xiaomi 13 (Pro)
+Device configuration for Xiaomi Pad 6S Pro
 =========================================
 
-The Xiaomi 13 (Pro) is a flagship phone from Xiaomi.
+The Xiaomi Pad 6S Pro is a tablet from Xiaomi.
 
-It was released in Decenber 2022.
+It was released in Feburary 2024.
 
 ## Device specifications
 
@@ -15,8 +15,7 @@ It was released in Decenber 2022.
         </tr>
         <tr>
             <td>Model</td>
-            <td>Xiaomi 13</td>
-            <td>Xiaomi 13 Pro</td>
+            <td>Xiaomi Pad 6S Pro</td>
         </tr>
         <tr>
             <td>SoC</td>
@@ -32,47 +31,35 @@ It was released in Decenber 2022.
         </tr>
         <tr>
             <td>Memory</td>
-            <td colspan="2">128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM</td>
+            <td colspan="2">128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1024GB 16GB RAM</td>
         </tr>
         <tr>
             <td>Shipped Android Version</td>
-            <td colspan="2">Android 13</td>
+            <td colspan="2">Android 14</td>
         </tr>
         <tr>
             <td>Battery</td>
-            <td>Li-Po 4500 mAh, non-removable</td>
-            <td>Li-Po 4820 mAh, non-removable</td>
+            <td>Li-Po 10000 mAh(Tpy), non-removable</td>
         </tr>
         <tr>
             <td>Display</td>
-            <td>1080 x 2400 pixels, 20:9 ratio (~414 ppi density), AMOLED, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)</td>
-            <td>1440 x 3200 pixels, 20:9 ratio (~522 ppi density), LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)</td>
+            <td>3048 x 2032 pixels(295ppi), 3:2 ratio , LCD, 144Hz, Dolby Vision, HDR10+
         </tr>
         <tr>
             <td>Camera (Wide)</td>
-            <td>50 MP, f/1.8, 23mm (wide), 1/1.49", 1.0&micro;m, PDAF, OIS</td>
-            <td>50.3 MP, f/1.9, 23mm (wide), 1.0"-type, 1.6&micro;m, Dual Pixel PDAF, Laser AF, OIS</td>
+            <td>50 MP, ƒ/1.8 (Wide), 0.64 μm, 1/2.76"</td>
         </tr>
         <tr>
-            <td>Camera (Ultrawide)</td>
-            <td>12 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/3.06", 1.12&micro;m</td>
-            <td>50 MP, f/2.2, 14mm, 115˚ (ultrawide), AF&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Camera (Tele)</td>
-            <td>10 MP, f/2.0, 75mm (telephoto), 1/3.75", 1.0&micro;m, PDAF, OIS, 3.2x optical zoom</td>
-            <td>50 MP, f/2.0, 75mm (telephoto), PDAF (10cm - &infin;), 3.2x optical zoom</td>
+            <td>Camera(DOF)</td>
+            <td>2 MP, ƒ/2.4 (DOF)</td>
         </tr>
         <tr>
             <td>Camera (Front)</td>
-            <td colspan="2">32 MP,&nbsp;f/2.0, 22mm (wide), 1/3.14", 0.7&micro;m</td>
+            <td>32 MP, ƒ/2.2 (ultrawide), 0.61 μm, 1/3.6" Size</td>
         </tr>
     </tbody>
 </table>
 
-## Device picture
-
-![fuxi/nuwa](https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/Xiaomi_13_Pro_globaler_Launchtermin.jpg "fuxi/nuwa")
 
 ## Copyright
 
