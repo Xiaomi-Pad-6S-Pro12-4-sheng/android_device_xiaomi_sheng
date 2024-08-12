@@ -62,21 +62,10 @@ void vendor_load_properties() {
     set_build_prop("ro.build.product", sku);
     set_ro_build_prop("device", sku);
 
-    if (sku == "fuxi") { // Xiaomi 13
+    if (sku == "sheng") { // Xiaomi Pad 6s
         if (region == "CN") { // China
-            set_ro_build_prop("model", "2211133C");
-            set_ro_build_prop("name", "fuxi");
-        } else {              // Global
-            set_ro_build_prop("model", "2211133G");
-            set_ro_build_prop("name", "fuxi_global");
-        }
-    } else if (sku == "nuwa") { // Xiaomi 13 Pro
-        if (region == "CN") { // China
-            set_ro_build_prop("model", "2210132C");
-            set_ro_build_prop("name", "nuwa");
-        } else {              // Global
-            set_ro_build_prop("model", "2210132G");
-            set_ro_build_prop("name", "nuwa_global");
+            set_ro_build_prop("model", "24018RPACC");
+            set_ro_build_prop("name", "sheng");
         }
     }
 

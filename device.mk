@@ -14,7 +14,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
 
 # Get non-open-source specific aspects
-$(call inherit-product, vendor/xiaomi/xiaomi13/xiaomi13-vendor.mk)
+$(call inherit-product, vendor/xiaomi/sheng/sheng-vendor.mk)
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
@@ -102,8 +102,8 @@ PRODUCT_PACKAGES += \
     android.hardware.authsecret@1.0.vendor
 
 # Boot Animation
-PRODUCT_COPY_FILES += \
-    vendor/aospa/bootanimation/1440/bootanimation.zip:$(TARGET_COPY_OUT_ODM)/overlayfs/nuwa/product/media/bootanimation.zip
+TARGET_SCREEN_HEIGHT := 3048
+TARGET_SCREEN_WIDTH := 2032
 
 # Boot Control
 PRODUCT_PACKAGES += \
@@ -362,6 +362,9 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.sensor.relative_humidity.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.sensor.relative_humidity.xml \
     frameworks/native/data/etc/android.hardware.sensor.stepcounter.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.sensor.stepcounter.xml \
     frameworks/native/data/etc/android.hardware.sensor.stepdetector.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.sensor.stepdetector.xml
+
+# Tablet
+TARGET_IS_TABLET := true
 
 # Thermal
 PRODUCT_PACKAGES += \
