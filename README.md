@@ -60,6 +60,9 @@ It was released in Feburary 2024.
     </tbody>
 </table>
 
+Tablet Shot
+
+![image](https://github.com/user-attachments/assets/d483b9e8-e400-4ffe-8c1d-ce309e8b1792)
 
 ## Copyright
 
