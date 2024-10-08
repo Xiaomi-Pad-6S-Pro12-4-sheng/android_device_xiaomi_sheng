@@ -62,7 +62,7 @@ It was released in Feburary 2024.
 
 Tablet Shot
 
-![image](https://github.com/user-attachments/assets/d483b9e8-e400-4ffe-8c1d-ce309e8b1792)
+![image](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1708599879.07746906.png)
 
 ## Copyright
 
